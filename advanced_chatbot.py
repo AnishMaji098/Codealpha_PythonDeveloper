@@ -1,11 +1,3 @@
-"""
-Advanced Rule-Based Chatbot
-Task 4 upgrade: menu-free conversation, intent matching, personalization,
-date/time, simple safe calculator, and chat transcript saving.
-
-Uses only Python's standard library.
-"""
-
 import ast
 import operator
 import random
