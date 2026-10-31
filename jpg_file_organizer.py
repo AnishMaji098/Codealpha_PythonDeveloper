@@ -1,10 +1,3 @@
-"""
-Task 3: Task Automation with Python Scripts
-Option selected: Move all .jpg files from one folder to another.
-
-This script uses only Python's standard library.
-"""
-
 import shutil
 from pathlib import Path
 
